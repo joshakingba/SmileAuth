@@ -1,0 +1,10 @@
+/*
+  InfoPlist.strings
+  PasswordGenerator
+
+  Created by Hxb on 15/06/2021.
+  
+*/
+
+NSFaceIDUsageDescription = "Unlock your passwords.";
+

@@ -1,0 +1,8 @@
+/* 
+  InfoPlist.strings
+  PasswordGenerator
+
+  Created by Hxb on 15/06/2021.
+  
+*/
+NSFaceIDUsageDescription = "Déverouiller vos mots de passes.";
